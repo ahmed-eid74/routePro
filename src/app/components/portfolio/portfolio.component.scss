@@ -1,0 +1,42 @@
+.bg-Page{
+
+
+  font-weight: 10px;
+
+
+}
+.text-imgs :hover{
+padding: 1px;
+transform: translate(-4px);
+
+}
+img{
+  max-width: 100%;
+}
+
+
+.line-port{
+
+  background-color:  rgb(44, 62, 80);
+  height: 7px;
+  width: 70px;
+}
+
+
+.text-after{
+  color: rgb(44, 62, 80);
+  display: flex;
+  flex-direction: column;
+  padding: 0 0 20px;
+  font-weight: 10px !important;
+  text-align: center;
+  margin-top: 25px;
+  margin-bottom: 2rem;
+}
+.star-port{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: rgb(44, 62, 80);
+
+}

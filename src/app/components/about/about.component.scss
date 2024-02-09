@@ -1,0 +1,54 @@
+:root {
+  --main-color: #1abc9c;
+  --second-color: #2c3e50;
+}
+.bg-Page{
+  background-color: #1abc9c;
+  height: 70vh;
+  font-weight: 10px;
+  padding: 20px;
+
+
+
+}
+
+
+
+
+.text-after{
+  color:#fff;
+  display: flex;
+  flex-direction: column;
+  padding: 0 0 20px;
+  font-weight: 10px !important;
+  text-align: center;
+  margin-top: 25px;
+  margin-bottom: 2rem;
+}
+.star-port{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+.line-port{
+  background-color: #fff;
+  height: 7px;
+  width: 70px;
+}
+.text-pro{
+  color: #fff;
+  display: flex;
+  text-align: start;
+
+  margin-top: 28px;
+  margin-bottom: 4rem;
+  font-weight: 10px;
+}
+.text-pp{
+  color: #fff;
+  text-align: end;
+
+  margin-top: 28px;
+  margin-bottom: 4rem;
+}
